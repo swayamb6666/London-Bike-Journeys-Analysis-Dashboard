@@ -1,4 +1,4 @@
-# London Bike Journeys Dashboard
+# London Bike Journeys Analysis Dashboard
 
 ## Overview
 
@@ -52,55 +52,18 @@ This project is a comprehensive data visualization dashboard analyzing London's 
 
 ## Installation & Setup
 
-1. Clone the repository:
+**Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/london-bike-journeys.git
    ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd london-bike-journeys
-   ```
-
-3. If using a specific tool or framework, install dependencies:
-   ```bash
-   npm install
-   # or
-   pip install -r requirements.txt
-   ```
-
-4. Open the dashboard file in your preferred tool or start the local server:
-   ```bash
-   npm start
-   # or open index.html in your browser
-   ```
-
-## Dataset
+## Dataset Download From Here: [https://drive.google.com/file/d/1rZjr-ohlKVRU2vzt5Rn8pHVcQq2GHUq3/view?usp=sharing]
 
 - **Time Period**: August 2023
 - **Source**: Transport for London (TfL) Open Data
 - **Records**: 776,527 bike journey records
 - **Attributes**: Journey ID, Start Station, End Station, Start Time, End Time, Bike ID, User Type, etc.
 - **Data Format**: CSV/JSON (specify your format)
-
-## File Structure
-
-```
-london-bike-journeys/
-├── README.md
-├── data/
-│   └── august_2023_journeys.csv
-├── dashboards/
-│   ├── page1_summary.html
-│   ├── page2_analysis.html
-│   └── styles/
-│       └── dashboard.css
-├── analysis/
-│   └── data_processing.py
-└── images/
-    ├── dashboard_page1.png
-    ├── dashboard_page2.png
-```
 
 ## Usage
 
@@ -151,9 +114,9 @@ This dashboard utilizes open data from Transport for London (TfL). The original 
 
 ## Contact & Support
 
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: [Swayam Bana]
+- **Email**: [swayambana132@gmail.com]
+- **GitHub**: [@Swayam Bana](https://github.com/swayamb6666)
 
 For questions or issues, please open an issue on the GitHub repository.
 
@@ -161,4 +124,4 @@ For questions or issues, please open an issue on the GitHub repository.
 
 - Transport for London for providing the open dataset
 - Data visualization community for tools and best practices
-- [Any other collaborators or resources you'd like to credit]
+
