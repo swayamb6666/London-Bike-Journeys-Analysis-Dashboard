@@ -54,7 +54,7 @@ This project is a comprehensive data visualization dashboard analyzing London's 
 
 **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/london-bike-journeys.git
+[   git clone https://github.com/swayamb6666/London-Bike-Journeys-Analysis-Dashboard.git]
    ```
 
 ## Dataset Download From Here: [https://drive.google.com/file/d/1rZjr-ohlKVRU2vzt5Rn8pHVcQq2GHUq3/view?usp=sharing]
